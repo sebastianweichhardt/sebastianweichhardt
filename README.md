@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianweichhardt&show_icons=true&locale=en&layout=compact" alt="sebastianweichhardt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianweichhardt&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=5d5d5d&locale=en" alt="sebastianweichhardt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianweichhardt&show_icons=true&title_color=70a7ff&text_color=000000&bg_color=ffffff&locale=en" alt="sebastianweichhardt" /></p>
